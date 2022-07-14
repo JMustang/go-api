@@ -4,6 +4,8 @@ go 1.18
 
 require github.com/spf13/viper v1.12.0
 
+require github.com/lib/pq v1.10.6
+
 require (
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
