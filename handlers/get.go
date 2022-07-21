@@ -7,6 +7,7 @@ import (
 	"strconv"
 
 	"github.com/JMustang/go-api/models"
+	"github.com/go-chi/chi/v5"
 )
 
 func Get(w http.ResponseWriter, r *http.Request) {
